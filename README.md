@@ -3,6 +3,7 @@
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/PRIORITY_ENCODER/assets/154305926/3da43bab-6ee6-456f-858f-4553d3623f8c)
 # Program
+~~~
 module priority_encoder(
 
   input [7:0] D,
@@ -36,6 +37,6 @@ module priority_encoder(
   end
 
 endmodule
-
+~~~
 ## Output
 ![image](https://github.com/Shaiksushma123/PRIORITY_ENCODER/assets/159005642/20c210cd-bcb9-4ffa-8328-f64aa28e145c)
